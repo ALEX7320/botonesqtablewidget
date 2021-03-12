@@ -27,7 +27,7 @@ class VentanaPrincipal(QMainWindow):
                 ['A2','Jeronima','jeronima@gmail.com','35'],
                 ['A3','Santiago','santiago@gmail.com','78'],
                 ['A4','Javier','javier@gmail.com','58'],
-                ['A5','Thomas','thomas @gmail.com','25'],
+                ['A5','Thomas','thomas@gmail.com','25'],
                 ['A6','Pedro','pedro@gmail.com','42'],
                 ]
 

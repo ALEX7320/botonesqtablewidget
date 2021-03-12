@@ -49,16 +49,19 @@ class Clase_AccionTabla():
 
             # CREAR BOTONES /*/*/*/*/*/*/*/*/*/*/*/*/*/
             btn_uno = self.creabotones(
-                estilo = (u"QPushButton{background-color: #52CF33; color: white}"
-                         "\nQPushButton:hover{background-color: #32EF03}"
-                         "\nQPushButton:pressed{background-color: #43A02C}"),
+                estilo = (u"""
+                          QPushButton{background-color: #52CF33; color: white}"
+                          QPushButton:hover{background-color: #32EF03}
+                          QPushButton:pressed{background-color: #43A02C}"""),
                 icono = 'icons/edit.png',
                 titulo = u' Editar',
                 tooltip = 'Editar')
+
             btn_dos = self.creabotones(
-                estilo = (u"QPushButton{background-color: #DB224F; color: white}"
-                         "\nQPushButton:hover{background-color: #F41E52}"
-                         "\nQPushButton:pressed{background-color: #A91E40}"),
+                estilo = (u"""
+                          QPushButton{background-color: #DB224F; color: white}
+                          QPushButton:hover{background-color: #F41E52}
+                          QPushButton:pressed{background-color: #A91E40}"""),
                 icono = 'icons/delete.png',
                 titulo = u'Eliminar',
                 tooltip = 'Eliminar')           
@@ -72,7 +75,7 @@ class Clase_AccionTabla():
             widget = QWidget()
             widget.setLayout(layout)
             # widget de botones en la columna final 
-            tabla.setCellWidget(fila ,tabla.columnCount()-1,widget)#
+            tabla.setCellWidget(fila ,tabla.columnCount()-1,widget)
 
             # SINCRONIZAR ACCIONES /*/*/*/*/*/*/*/*/*/*/*/*/*/
             self.boton_uno_coneccion(btn_uno, fila, tabla, listaItem)
