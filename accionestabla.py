@@ -50,7 +50,7 @@ class Clase_AccionTabla():
             # CREAR BOTONES /*/*/*/*/*/*/*/*/*/*/*/*/*/
             btn_uno = self.creabotones(
                 estilo = (u"""
-                          QPushButton{background-color: #52CF33; color: white}"
+                          QPushButton{background-color: #52CF33; color: white}
                           QPushButton:hover{background-color: #32EF03}
                           QPushButton:pressed{background-color: #43A02C}"""),
                 icono = 'icons/edit.png',
