@@ -1,7 +1,11 @@
 # Agregar botones en QTableWidget
+
+
 **Indice **
 
+
 [TOC]
+
 
 # Recursos utilizados 
 
