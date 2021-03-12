@@ -1,12 +1,13 @@
 # Agregar botones en QTableWidget
 
-
 **Indice**
+  * [Recursos utilizados](#recursos-utilizados)
+  * [Acciones](#acciones)
+  * [Inserción de datos](#inserción-de-datos)
+  * [Diseño](#diseño)
+  * [Previzualización](#previzualización)
 
-[TOC]
-
-
-# Recursos utilizados 
+# Recursos utilizados
 
 `pip install PySide2`
 
