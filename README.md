@@ -1,8 +1,7 @@
 # Agregar botones en QTableWidget
 
 
-**Indice **
-
+**Indice**
 
 [TOC]
 
