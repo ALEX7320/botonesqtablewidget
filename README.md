@@ -1,10 +1,10 @@
 # Agregar botones en QTableWidget
 
-#####Recursos utilizados 
+##### Recursos utilizados 
 
 `pip install PySide2`
 
-#####Detalles
+##### Detalles
 En las funciones `boton_uno_accion` y `boton_dos_accion` del modulo `accionestabla.py` se colocara la funcionalidad que realizara dicho boton.
 ```python
     #ASIGNAR ACCIONES *-*-*-*-*-*-*-*-*
@@ -25,6 +25,6 @@ En las funciones `boton_uno_accion` y `boton_dos_accion` del modulo `accionestab
         print(f'Eliminar Elementos: {elementos}') # acciona a realizar
 ```
 
-#####Previzualizacion
+##### Previzualizacion
 
 ![](https://1.bp.blogspot.com/-MI1_8MWh6lQ/YErKo7FeGDI/AAAAAAAAAEs/R12yjqT7WlgKVu68AyHldMH8P0glevYzgCLcBGAsYHQ/s1600/1A.jpg)
