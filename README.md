@@ -5,7 +5,7 @@
   * [Acciones](#acciones)
   * [Inserción de datos](#inserción-de-datos)
   * [Diseño](#diseño)
-  * [Previzualización](#previzualización)
+  * [Previsualización](#previsualización)
 
 # Recursos utilizados
 
@@ -74,6 +74,6 @@ Modulo `accionestabla.py`
                 tooltip = 'Eliminar')  
 ```
 
-# Previzualización
+# Previsualización
 
 ![](https://1.bp.blogspot.com/-MI1_8MWh6lQ/YErKo7FeGDI/AAAAAAAAAEs/R12yjqT7WlgKVu68AyHldMH8P0glevYzgCLcBGAsYHQ/s1600/1A.jpg)
